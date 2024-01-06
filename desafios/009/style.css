@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    font: 1.1em 'Verdana';
+    text-align: center;
+}
+h1{
+    margin: 30px;
+}
+p{
+    margin: 5px;
+}
+p.foot{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
